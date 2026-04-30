@@ -44,7 +44,7 @@ function loadFooter() {
         </div>
 
         <div class="footer-right">
-          <form id="contact-form" method="POST" action="https://formspree.io/f/TON_ID" class="contact-card">
+          <form id="contact-form" method="POST" action="https://formspree.io/f/xrejggqy" class="contact-card">
             <input type="text" name="_gotcha" style="display:none" tabindex="-1" autocomplete="off">
             <div class="form-row">
               <input type="text" name="name" placeholder="Nom" required>
