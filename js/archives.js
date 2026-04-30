@@ -42,27 +42,27 @@
       classements: [
         {
           label: "ESTRAN 32km — Général",
-          url: "https://www.estran.org/wp-content/uploads/2025/09/2025-estran-classement-general.pdf",
+          url: "docs/classements/2025-estran-classement-general.pdf",
         },
         {
           label: "ESTRAN 32km — Par catégorie",
-          url: "https://www.estran.org/wp-content/uploads/2025/09/2025-estran-classement-categorie.pdf",
+          url: "docs/classements/2025-estran-classement-categorie.pdf",
         },
         {
           label: "BERNIQUE 14km — Général",
-          url: "https://www.estran.org/wp-content/uploads/2025/09/2025-bernique-classement-general.pdf",
+          url: "docs/classements/2025-bernique-classement-general.pdf",
         },
         {
           label: "BERNIQUE 14km — Par catégorie",
-          url: "https://www.estran.org/wp-content/uploads/2025/09/2025-bernique-classement-categorie.pdf",
+          url: "docs/classements/2025-bernique-classement-categorie.pdf",
         },
         {
           label: "CREVETTE 8km — Général",
-          url: "https://www.estran.org/wp-content/uploads/2025/09/2025-crevette-classement-general.pdf",
+          url: "docs/classements/2025-crevette-classement-general.pdf",
         },
         {
           label: "CREVETTE 8km — Par catégorie",
-          url: "https://www.estran.org/wp-content/uploads/2025/09/2025-crevette-classement-categorie.pdf",
+          url: "docs/classements/2025-crevette-classement-categorie.pdf",
         },
       ],
       videos: [
@@ -96,27 +96,27 @@
       classements: [
         {
           label: "ESTRAN 32km — Général",
-          url: "https://www.estran.org/wp-content/uploads/2024/09/2024-estran-classement-general.pdf",
+          url: "docs/classements/2024-estran-classement-general.pdf",
         },
         {
           label: "ESTRAN 32km — Par catégorie",
-          url: "https://www.estran.org/wp-content/uploads/2024/09/2024-estran-classement-categorie.pdf",
+          url: "docs/classements/2024-estran-classement-categorie.pdf",
         },
         {
           label: "BERNIQUE 14km — Général",
-          url: "https://www.estran.org/wp-content/uploads/2024/09/2024-bernique-classement-general.pdf",
+          url: "docs/classements/2024-bernique-classement-general.pdf",
         },
         {
           label: "BERNIQUE 14km — Par catégorie",
-          url: "https://www.estran.org/wp-content/uploads/2024/09/2024-bernique-classement-categorie.pdf",
+          url: "docs/classements/2024-bernique-classement-categorie.pdf",
         },
         {
           label: "CREVETTE 8km — Général",
-          url: "https://www.estran.org/wp-content/uploads/2024/09/2024-crevette-classement-general.pdf",
+          url: "docs/classements/2024-crevette-classement-general.pdf",
         },
         {
           label: "CREVETTE 8km — Par catégorie",
-          url: "https://www.estran.org/wp-content/uploads/2024/09/2024-crevette-classement-categorie.pdf",
+          url: "docs/classements/2024-crevette-classement-categorie.pdf",
         },
       ],
       videos: [],
@@ -153,35 +153,35 @@
       classements: [
         {
           label: "E.V.E 50km — Général",
-          url: "https://www.estran.org/wp-content/uploads/2023/09/2023-eve-classement-general.pdf",
+          url: "docs/classements/2023-eve-classement-general.pdf",
         },
         {
           label: "E.V.E 50km — Par catégorie",
-          url: "https://www.estran.org/wp-content/uploads/2023/09/2023-eve-classement-categorie.pdf",
+          url: "docs/classements/2023-eve-classement-categorie.pdf",
         },
         {
           label: "ESTRAN 32km — Général",
-          url: "https://www.estran.org/wp-content/uploads/2023/09/2023-estran-classement-general.pdf",
+          url: "docs/classements/2023-estran-classement-general.pdf",
         },
         {
           label: "ESTRAN 32km — Par catégorie",
-          url: "https://www.estran.org/wp-content/uploads/2023/09/2023-estran-classement-categorie.pdf",
+          url: "docs/classements/2023-estran-classement-categorie.pdf",
         },
         {
           label: "BERNIQUE 14km — Général",
-          url: "https://www.estran.org/wp-content/uploads/2023/09/2023-bernique-classement-general.pdf",
+          url: "docs/classements/2023-bernique-classement-general.pdf",
         },
         {
           label: "BERNIQUE 14km — Par catégorie",
-          url: "https://www.estran.org/wp-content/uploads/2023/09/2023-bernique-classement-categorie.pdf",
+          url: "docs/classements/2023-bernique-classement-categorie.pdf",
         },
         {
           label: "CREVETTE 8km — Général",
-          url: "https://www.estran.org/wp-content/uploads/2023/09/2023-crevette-classement-general.pdf",
+          url: "docs/classements/2023-crevette-classement-general.pdf",
         },
         {
           label: "CREVETTE 8km — Par catégorie",
-          url: "https://www.estran.org/wp-content/uploads/2023/09/2023-crevette-classement-categorie.pdf",
+          url: "docs/classements/2023-crevette-classement-categorie.pdf",
         },
       ],
       videos: [],
@@ -223,27 +223,27 @@
       classements: [
         {
           label: "E.V.E 50km — Général",
-          url: "https://www.estran.org/wp-content/uploads/2022/05/2022-eve-classement-general.pdf",
+          url: "docs/classements/2022-eve-classement-general.pdf",
         },
         {
           label: "E.V.E 50km — Par catégorie",
-          url: "https://www.estran.org/wp-content/uploads/2022/05/2022-eve-classement-categorie.pdf",
+          url: "docs/classements/2022-eve-classement-categorie.pdf",
         },
         {
           label: "ESTRAN 32km — Général",
-          url: "https://www.estran.org/wp-content/uploads/2022/05/2022-estran-classement-general.pdf",
+          url: "docs/classements/2022-estran-classement-general.pdf",
         },
         {
           label: "ESTRAN 32km — Par catégorie",
-          url: "https://www.estran.org/wp-content/uploads/2022/05/2022-estran-classement-categorie.pdf",
+          url: "docs/classements/2022-estran-classement-categorie.pdf",
         },
         {
           label: "BERNIQUE 14km — Général",
-          url: "https://www.estran.org/wp-content/uploads/2022/05/2022-bernique-classement-general.pdf",
+          url: "docs/classements/2022-bernique-classement-general.pdf",
         },
         {
           label: "BERNIQUE 14km — Par catégorie",
-          url: "https://www.estran.org/wp-content/uploads/2022/05/2022-bernique-classement-categorie.pdf",
+          url: "docs/classements/2022-bernique-classement-categorie.pdf",
         },
       ],
       videos: [],
@@ -264,19 +264,19 @@
       classements: [
         {
           label: "ESTRAN 32km — Général",
-          url: "https://www.estran.org/wp-content/uploads/2021/09/2021-estran-classement-general.pdf",
+          url: "docs/classements/2021-estran-classement-general.pdf",
         },
         {
           label: "ESTRAN 32km — Par catégorie",
-          url: "https://www.estran.org/wp-content/uploads/2021/09/2021-estran-classement-categorie.pdf",
+          url: "docs/classements/2021-estran-classement-categorie.pdf",
         },
         {
           label: "BERNIQUE 14km — Général",
-          url: "https://www.estran.org/wp-content/uploads/2021/09/2021-bernique-classement-general.pdf",
+          url: "docs/classements/2021-bernique-classement-general.pdf",
         },
         {
           label: "BERNIQUE 14km — Par catégorie",
-          url: "https://www.estran.org/wp-content/uploads/2021/09/2021-bernique-classement-categorie.pdf",
+          url: "docs/classements/2021-bernique-classement-categorie.pdf",
         },
       ],
       videos: [],
@@ -318,31 +318,31 @@
       classements: [
         {
           label: "E.V.E 50km — Général",
-          url: "https://www.estran.org/wp-content/uploads/2019/09/2019-eve-classement-general.pdf",
+          url: "docs/classements/2019-eve-classement-general.pdf",
         },
         {
           label: "E.V.E 50km — Par catégorie",
-          url: "https://www.estran.org/wp-content/uploads/2019/09/2019-eve-classement-categorie.pdf",
+          url: "docs/classements/2019-eve-classement-categorie.pdf",
         },
         {
           label: "E.V.E 50km — Relais",
-          url: "https://www.estran.org/wp-content/uploads/2019/09/2019-releve-classement-general.pdf",
+          url: "docs/classements/2019-releve-classement-general.pdf",
         },
         {
           label: "ESTRAN 32km — Général",
-          url: "https://www.estran.org/wp-content/uploads/2019/09/2019-estran-classement-general.pdf",
+          url: "docs/classements/2019-estran-classement-general.pdf",
         },
         {
           label: "ESTRAN 32km — Par catégorie",
-          url: "https://www.estran.org/wp-content/uploads/2019/09/2019-estran-classement-categorie.pdf",
+          url: "docs/classements/2019-estran-classement-categorie.pdf",
         },
         {
           label: "BERNIQUE 14km — Général",
-          url: "https://www.estran.org/wp-content/uploads/2019/09/2019-bernique-classement-general.pdf",
+          url: "docs/classements/2019-bernique-classement-general.pdf",
         },
         {
           label: "BERNIQUE 14km — Par catégorie",
-          url: "https://www.estran.org/wp-content/uploads/2019/09/2019-bernique-classement-categorie.pdf",
+          url: "docs/classements/2019-bernique-classement-categorie.pdf",
         },
       ],
       videos: [
@@ -385,31 +385,31 @@
       classements: [
         {
           label: "E.V.E 50km — Général",
-          url: "https://www.estran.org/wp-content/uploads/2018/09/2018-eve-classement-general.pdf",
+          url: "docs/classements/2018-eve-classement-general.pdf",
         },
         {
           label: "E.V.E 50km — Par catégorie",
-          url: "https://www.estran.org/wp-content/uploads/2018/09/2018-eve-classement-categorie.pdf",
+          url: "docs/classements/2018-eve-classement-categorie.pdf",
         },
         {
           label: "E.V.E 50km — Relais",
-          url: "https://www.estran.org/wp-content/uploads/2018/09/2018-releve-classement-general.pdf",
+          url: "docs/classements/2018-releve-classement-general.pdf",
         },
         {
           label: "ESTRAN 32km — Général",
-          url: "https://www.estran.org/wp-content/uploads/2018/09/2018-estran-classement-general.pdf",
+          url: "docs/classements/2018-estran-classement-general.pdf",
         },
         {
           label: "ESTRAN 32km — Par catégorie",
-          url: "https://www.estran.org/wp-content/uploads/2018/09/2018-estran-classement-categorie.pdf",
+          url: "docs/classements/2018-estran-classement-categorie.pdf",
         },
         {
           label: "BERNIQUE 14km — Général",
-          url: "https://www.estran.org/wp-content/uploads/2018/09/2018-bernique-classement-general.pdf",
+          url: "docs/classements/2018-bernique-classement-general.pdf",
         },
         {
           label: "BERNIQUE 14km — Par catégorie",
-          url: "https://www.estran.org/wp-content/uploads/2018/09/2018-bernique-classement-categorie.pdf",
+          url: "docs/classements/2018-bernique-classement-categorie.pdf",
         },
       ],
       videos: [],
@@ -438,31 +438,31 @@
       classements: [
         {
           label: "E.V.E 50km — Général",
-          url: "https://www.estran.org/wp-content/uploads/2017/09/2017-eve-classement-general.pdf",
+          url: "docs/classements/2017-eve-classement-general.pdf",
         },
         {
           label: "E.V.E 50km — Par catégorie",
-          url: "https://www.estran.org/wp-content/uploads/2017/09/2017-eve-classement-categorie.pdf",
+          url: "docs/classements/2017-eve-classement-categorie.pdf",
         },
         {
           label: "E.V.E 50km — Relais",
-          url: "https://www.estran.org/wp-content/uploads/2017/09/2017-releve-classement-general.pdf",
+          url: "docs/classements/2017-releve-classement-general.pdf",
         },
         {
           label: "ESTRAN 32km — Général",
-          url: "https://www.estran.org/wp-content/uploads/2017/09/2017-estran-classement-general.pdf",
+          url: "docs/classements/2017-estran-classement-general.pdf",
         },
         {
           label: "ESTRAN 32km — Par catégorie",
-          url: "https://www.estran.org/wp-content/uploads/2017/09/2017-estran-classement-categorie.pdf",
+          url: "docs/classements/2017-estran-classement-categorie.pdf",
         },
         {
           label: "BERNIQUE 14km — Général",
-          url: "https://www.estran.org/wp-content/uploads/2017/09/2017-bernique-classement-general.pdf",
+          url: "docs/classements/2017-bernique-classement-general.pdf",
         },
         {
           label: "BERNIQUE 14km — Par catégorie",
-          url: "https://www.estran.org/wp-content/uploads/2017/09/2017-bernique-classement-categorie.pdf",
+          url: "docs/classements/2017-bernique-classement-categorie.pdf",
         },
       ],
       videos: [],
@@ -512,27 +512,27 @@
       classements: [
         {
           label: "E.V.E 50km — Général",
-          url: "https://www.estran.org/wp-content/uploads/2016/09/2016-eve-classement-general.pdf",
+          url: "docs/classements/2016-eve-classement-general.pdf",
         },
         {
           label: "E.V.E 50km — Par catégorie",
-          url: "https://www.estran.org/wp-content/uploads/2016/09/2016-eve-classement-categorie.pdf",
+          url: "docs/classements/2016-eve-classement-categorie.pdf",
         },
         {
           label: "ESTRAN 32km — Général",
-          url: "https://www.estran.org/wp-content/uploads/2016/09/2016-estran-classement-general.pdf",
+          url: "docs/classements/2016-estran-classement-general.pdf",
         },
         {
           label: "ESTRAN 32km — Par catégorie",
-          url: "https://www.estran.org/wp-content/uploads/2016/09/2016-estran-classement-categorie.pdf",
+          url: "docs/classements/2016-estran-classement-categorie.pdf",
         },
         {
           label: "BERNIQUE 14km — Général",
-          url: "https://www.estran.org/wp-content/uploads/2016/09/2016-bernique-classement-general.pdf",
+          url: "docs/classements/2016-bernique-classement-general.pdf",
         },
         {
           label: "BERNIQUE 14km — Par catégorie",
-          url: "https://www.estran.org/wp-content/uploads/2016/09/2016-bernique-classement-categorie.pdf",
+          url: "docs/classements/2016-bernique-classement-categorie.pdf",
         },
       ],
       videos: [
@@ -588,27 +588,27 @@
       classements: [
         {
           label: "E.V.E 50km — Général",
-          url: "https://www.estran.org/wp-content/uploads/2015/09/2015-eve-classement-general.pdf",
+          url: "docs/classements/2015-eve-classement-general.pdf",
         },
         {
           label: "E.V.E 50km — Par catégorie",
-          url: "https://www.estran.org/wp-content/uploads/2015/09/2015-eve-classement-categorie.pdf",
+          url: "docs/classements/2015-eve-classement-categorie.pdf",
         },
         {
           label: "ESTRAN 32km — Général",
-          url: "https://www.estran.org/wp-content/uploads/2015/09/2015-estran-classement-general.pdf",
+          url: "docs/classements/2015-estran-classement-general.pdf",
         },
         {
           label: "ESTRAN 32km — Par catégorie",
-          url: "https://www.estran.org/wp-content/uploads/2015/09/2015-estran-classement-categorie.pdf",
+          url: "docs/classements/2015-estran-classement-categorie.pdf",
         },
         {
           label: "BERNIQUE 14km — Général",
-          url: "https://www.estran.org/wp-content/uploads/2015/09/2015-bernique-classement-general.pdf",
+          url: "docs/classements/2015-bernique-classement-general.pdf",
         },
         {
           label: "BERNIQUE 14km — Par catégorie",
-          url: "https://www.estran.org/wp-content/uploads/2015/09/2015-bernique-classement-categorie.pdf",
+          url: "docs/classements/2015-bernique-classement-categorie.pdf",
         },
       ],
       videos: [
@@ -658,27 +658,27 @@
       classements: [
         {
           label: "E.V.E 50km — Général",
-          url: "https://www.estran.org/wp-content/uploads/2014/09/2014-eve-classement-general.pdf",
+          url: "docs/classements/2014-eve-classement-general.pdf",
         },
         {
           label: "E.V.E 50km — Par catégorie",
-          url: "https://www.estran.org/wp-content/uploads/2014/09/2014-eve-classement-categorie.pdf",
+          url: "docs/classements/2014-eve-classement-categorie.pdf",
         },
         {
           label: "ESTRAN 32km — Général",
-          url: "https://www.estran.org/wp-content/uploads/2014/09/2014-estran-classement-general.pdf",
+          url: "docs/classements/2014-estran-classement-general.pdf",
         },
         {
           label: "ESTRAN 32km — Par catégorie",
-          url: "https://www.estran.org/wp-content/uploads/2014/09/2014-estran-classement-categorie.pdf",
+          url: "docs/classements/2014-estran-classement-categorie.pdf",
         },
         {
           label: "BERNIQUE 14km — Général",
-          url: "https://www.estran.org/wp-content/uploads/2014/09/2014-bernique-classement-general.pdf",
+          url: "docs/classements/2014-bernique-classement-general.pdf",
         },
         {
           label: "BERNIQUE 14km — Par catégorie",
-          url: "https://www.estran.org/wp-content/uploads/2014/09/2014-bernique-classement-categorie.pdf",
+          url: "docs/classements/2014-bernique-classement-categorie.pdf",
         },
       ],
       videos: [
@@ -732,19 +732,19 @@
       classements: [
         {
           label: "ESTRAN — Général",
-          url: "https://www.estran.org/wp-content/uploads/2013/12/2013-estran-classement-general.pdf",
+          url: "docs/classements/2013-estran-classement-general.pdf",
         },
         {
           label: "ESTRAN — Par catégorie",
-          url: "https://www.estran.org/wp-content/uploads/2013/12/2013-estran-classement-categorie.pdf",
+          url: "docs/classements/2013-estran-classement-categorie.pdf",
         },
         {
           label: "BERNIQUE — Général",
-          url: "https://www.estran.org/wp-content/uploads/2013/12/2013-bernique-classement-general.pdf",
+          url: "docs/classements/2013-bernique-classement-general.pdf",
         },
         {
           label: "BERNIQUE — Par catégorie",
-          url: "https://www.estran.org/wp-content/uploads/2013/12/2013-bernique-classement-categorie.pdf",
+          url: "docs/classements/2013-bernique-classement-categorie.pdf",
         },
       ],
       videos: [
@@ -790,19 +790,19 @@
       classements: [
         {
           label: "Estran 33km — Général",
-          url: "https://www.estran.org/wp-content/uploads/2013/12/2012-Estran33kmclassementgeneral.pdf",
+          url: "docs/classements/2012-Estran33kmclassementgeneral.pdf",
         },
         {
           label: "Estran 33km — Par catégorie",
-          url: "https://www.estran.org/wp-content/uploads/2013/12/2012-Estran33kmclassementcategorie.pdf",
+          url: "docs/classements/2012-Estran33kmclassementcategorie.pdf",
         },
         {
           label: "Estran 15km — Général",
-          url: "https://www.estran.org/wp-content/uploads/2013/12/2012-Estran15kmclassementgeneral.pdf",
+          url: "docs/classements/2012-Estran15kmclassementgeneral.pdf",
         },
         {
           label: "Estran 15km — Par catégorie",
-          url: "https://www.estran.org/wp-content/uploads/2013/12/2012-Estran15kmclassementcategorie.pdf",
+          url: "docs/classements/2012-Estran15kmclassementcategorie.pdf",
         },
       ],
       videos: [],
@@ -843,19 +843,19 @@
       classements: [
         {
           label: "Estran 32km — Général",
-          url: "https://www.estran.org/wp-content/uploads/2013/12/2011-Estran32kmclassementgeneral.pdf",
+          url: "docs/classements/2011-Estran32kmclassementgeneral.pdf",
         },
         {
           label: "Estran 32km — Par catégorie",
-          url: "https://www.estran.org/wp-content/uploads/2013/12/2011-Estran32kmclassementcategorie.pdf",
+          url: "docs/classements/2011-Estran32kmclassementcategorie.pdf",
         },
         {
           label: "Estran 13km — Général",
-          url: "https://www.estran.org/wp-content/uploads/2013/12/2011-Estran13kmclassementgeneral.pdf",
+          url: "docs/classements/2011-Estran13kmclassementgeneral.pdf",
         },
         {
           label: "Estran 13km — Par catégorie",
-          url: "https://www.estran.org/wp-content/uploads/2013/12/2011-Estran13kmclassementcategorie.pdf",
+          url: "docs/classements/2011-Estran13kmclassementcategorie.pdf",
         },
       ],
       videos: [
@@ -880,11 +880,11 @@
       classements: [
         {
           label: "Estran — Lièvres",
-          url: "https://www.estran.org/wp-content/uploads/2013/12/2010-classement-Estran-lievres.pdf",
+          url: "docs/classements/2010-classement-Estran-lievres.pdf",
         },
         {
           label: "Estran — Tortues",
-          url: "https://www.estran.org/wp-content/uploads/2013/12/2010-classement-Estran-tortues.pdf",
+          url: "docs/classements/2010-classement-Estran-tortues.pdf",
         },
       ],
       videos: [],
