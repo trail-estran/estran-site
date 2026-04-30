@@ -42,27 +42,27 @@
       classements: [
         {
           label: "ESTRAN 32km — Général",
-          url: "https://www.estran.org/wp-content/uploads/2025/09/2025-estran-classement-general.pdf",
+          url: "docs/classements/2025-estran-classement-general.pdf",
         },
         {
           label: "ESTRAN 32km — Par catégorie",
-          url: "https://www.estran.org/wp-content/uploads/2025/09/2025-estran-classement-categorie.pdf",
+          url: "docs/classements/2025-estran-classement-categorie.pdf",
         },
         {
           label: "BERNIQUE 14km — Général",
-          url: "https://www.estran.org/wp-content/uploads/2025/09/2025-bernique-classement-general.pdf",
+          url: "docs/classements/2025-bernique-classement-general.pdf",
         },
         {
           label: "BERNIQUE 14km — Par catégorie",
-          url: "https://www.estran.org/wp-content/uploads/2025/09/2025-bernique-classement-categorie.pdf",
+          url: "docs/classements/2025-bernique-classement-categorie.pdf",
         },
         {
           label: "CREVETTE 8km — Général",
-          url: "https://www.estran.org/wp-content/uploads/2025/09/2025-crevette-classement-general.pdf",
+          url: "docs/classements/2025-crevette-classement-general.pdf",
         },
         {
           label: "CREVETTE 8km — Par catégorie",
-          url: "https://www.estran.org/wp-content/uploads/2025/09/2025-crevette-classement-categorie.pdf",
+          url: "docs/classements/2025-crevette-classement-categorie.pdf",
         },
       ],
       videos: [
