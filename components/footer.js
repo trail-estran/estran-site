@@ -26,11 +26,11 @@ function loadFooter() {
                 22710 Penvénan
               </div>
             </a>
-            <a href="mailto:estran@estran.org" class="contact-block">
+            <a href="mailto:trail.estran@gmail.com" class="contact-block">
               <span class="contact-icon icon solid fa-envelope"></span>
               <div>
                 <strong>Email</strong><br>
-                estran@estran.org
+                trail.estran@gmail.com
               </div>
             </a>
           </div>
