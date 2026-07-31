@@ -802,8 +802,9 @@ textarea::placeholder {
 }
 
 .partners-grid {
-  display: grid;
-  grid-template-columns: repeat(5, 1fr);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
   gap: 1.1em;
   align-items: center;
 }
@@ -812,6 +813,9 @@ textarea::placeholder {
   display: flex;
   align-items: center;
   justify-content: center;
+  /* 5 par ligne : (100% - 4 espaces de gap) / 5. La dernière ligne
+     incomplète se recentre grâce à justify-content: center. */
+  flex: 0 1 calc((100% - 4 * 1.1em) / 5);
   min-height: 100px;
   padding: 1em;
   background: #fff;
@@ -2553,8 +2557,8 @@ body[data-page="inscription"] .page-hero {
     max-width: 100%;
   }
 
-  .partners-grid {
-    grid-template-columns: repeat(4, 1fr);
+  .partners-grid a {
+    flex-basis: calc((100% - 3 * 1.1em) / 4);
   }
 
   .insc-cards {
@@ -2686,8 +2690,8 @@ body[data-page="inscription"] .page-hero {
   .barriers-grid {
     grid-template-columns: 1fr;
   }
-  .partners-grid {
-    grid-template-columns: repeat(2, 1fr);
+  .partners-grid a {
+    flex-basis: calc((100% - 1 * 1.1em) / 2);
   }
 
   .contact-blocks {
