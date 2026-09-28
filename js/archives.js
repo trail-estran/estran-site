@@ -7,6 +7,17 @@
   "use strict";
 
   var ARCHIVES = {
+    2026: {
+      photos: [],
+      classements: [
+        {
+          label: "Résultats 2026 : toutes les courses (Chronowest)",
+          url: "https://chronowest.fr/resultats/trail-de-lestran-2026/",
+          icon: "trophy",
+        },
+      ],
+      videos: [],
+    },
     2025: {
       photos: [
         {
@@ -930,7 +941,7 @@
           '<a href="' +
           item.url +
           '" target="_blank" rel="noopener" class="archive-link">' +
-          icon("file-pdf") +
+          icon(item.icon || "file-pdf") +
           " " +
           item.label +
           "</a>"

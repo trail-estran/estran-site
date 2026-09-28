@@ -96,7 +96,13 @@
     var mEl = document.getElementById("cd-mins");
     var sEl = document.getElementById("cd-secs");
     var noteEl = document.getElementById("countdown-note");
-    var target = new Date("2026-09-27T00:00:00+02:00").getTime();
+
+    /* Date cible lue sur #countdown[data-target] ; si absente, date inconnue ("??" laissés dans le HTML) */
+    var cdEl = document.getElementById("countdown");
+    var targetAttr = cdEl && cdEl.dataset.target;
+    if (!targetAttr) return;
+    var target = new Date(targetAttr).getTime();
+    if (isNaN(target)) return;
 
     function pad(n) {
       return String(n).padStart(2, "0");
