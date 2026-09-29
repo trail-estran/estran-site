@@ -8,7 +8,16 @@
 
   var ARCHIVES = {
     2026: {
-      photos: [],
+      photos: [
+        {
+          label: "2026 THERIN Patrick",
+          url: "https://photos.app.goo.gl/NNEcaZRXkKeTkP7b9",
+        },
+        {
+          label: "2026 Déclic Armor - GAUDIER René",
+          url: "https://photos.app.goo.gl/ToRLt9uAz8QzbS9u5",
+        },
+      ],
       classements: [
         {
           label: "Résultats 2026 : toutes les courses (Chronowest)",
