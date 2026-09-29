@@ -377,7 +377,7 @@ textarea::placeholder {
 
 .page-logo-link {
   position: fixed;
-  top: 0.5em;
+  top: -4px; /* centre visuel du logo aligné sur la barre de nav */
   left: 40px !important;
   z-index: 1001;
   display: inline-block;
@@ -2664,7 +2664,7 @@ body[data-page="inscription"] .page-hero {
     font-size: 15px;
   }
   .page-logo-link {
-    top: 0.5em;
+    top: -4px;
     left: 2.5em;
   }
   .page-logo {
