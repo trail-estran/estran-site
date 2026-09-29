@@ -268,6 +268,7 @@ section {
   padding: 0;
   margin: 1.5em 0 0 0;
   display: flex;
+  flex-wrap: wrap;
   gap: 1em;
 }
 .actions.special {
@@ -614,9 +615,9 @@ textarea::placeholder {
   font-size: 0.85em;
   letter-spacing: 0.18em;
   text-transform: uppercase;
-  padding: 0 2.2em;
-  height: 3em;
-  line-height: 3em;
+  padding: 0.8em 2.2em;
+  line-height: 1.4;
+  max-width: 100%;
   border-radius: 999px;
   background: var(--almond);
 }
@@ -2790,5 +2791,30 @@ body[data-page="inscription"] .page-hero {
   }
   .countdown .unit {
     min-width: 70px;
+  }
+  .edition-date {
+    padding: 0.8em 1.4em;
+    letter-spacing: 0.12em;
+    border-radius: 1.6em;
+  }
+  /* Boutons de l'accueil empilés, même largeur */
+  #header .actions,
+  .section-event .actions {
+    flex-direction: column;
+    align-items: center;
+    gap: 0.8em;
+  }
+  #header .actions li,
+  .section-event .actions li {
+    width: 100%;
+    max-width: 280px;
+  }
+  #header .actions .button,
+  .section-event .actions .button {
+    display: block;
+    width: 100%;
+    padding: 0 1em;
+    text-align: center;
+    letter-spacing: 0.12em;
   }
 }
