@@ -6,6 +6,12 @@
 (function () {
   "use strict";
 
+  /* --- URL propre : retire ".html" (et "index") de la barre d'adresse --- */
+  if (/^https?:$/.test(location.protocol) && /\.html$/.test(location.pathname)) {
+    var clean = location.pathname.replace(/index\.html$/, "").replace(/\.html$/, "");
+    history.replaceState(null, "", clean + location.search + location.hash);
+  }
+
   /* --- Preload animation --- */
   window.addEventListener("load", function () {
     setTimeout(function () {

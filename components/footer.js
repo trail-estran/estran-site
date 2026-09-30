@@ -40,7 +40,7 @@ function loadFooter() {
             <li><a href="https://www.instagram.com/traildelestran/" class="icon brands fa-instagram" target="_blank" rel="noopener"><span class="sr-only">Instagram</span></a></li>
           </ul>
 
-          <p class="copyright">&copy; Trail de l'Estran · <a href="mentions-legales.html">Mentions légales</a></p>
+          <p class="copyright">&copy; Trail de l'Estran · <a href="mentions-legales">Mentions légales</a></p>
         </div>
 
         <div class="footer-right">

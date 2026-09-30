@@ -15,12 +15,12 @@ function loadNav() {
         <span class="hamburger"></span>
       </button>
       <ul>
-        <li class="${page === "index" ? "nav-page-active" : ""}"><a href="index.html#header">Accueil</a></li>
-        <li class="${page === "epreuves" ? "nav-page-active" : ""}"><a href="epreuves.html">Les épreuves</a></li>
-        <li class="${page === "inscription" ? "nav-page-active" : ""}"><a href="inscription.html">Inscription</a></li>
-        <li class="${page === "infos" ? "nav-page-active" : ""}"><a href="infos.html">Infos pratiques</a></li>
-        <li class="${page === "archives" ? "nav-page-active" : ""}"><a href="archives.html">Archives</a></li>
-        <li class="${page === "solidarite" ? "nav-page-active" : ""}"><a href="challenge.html">Le challenge de la solidarité</a></li>     
+        <li class="${page === "index" ? "nav-page-active" : ""}"><a href="./#header">Accueil</a></li>
+        <li class="${page === "epreuves" ? "nav-page-active" : ""}"><a href="epreuves">Les épreuves</a></li>
+        <li class="${page === "inscription" ? "nav-page-active" : ""}"><a href="inscription">Inscription</a></li>
+        <li class="${page === "infos" ? "nav-page-active" : ""}"><a href="infos">Infos pratiques</a></li>
+        <li class="${page === "archives" ? "nav-page-active" : ""}"><a href="archives">Archives</a></li>
+        <li class="${page === "solidarite" ? "nav-page-active" : ""}"><a href="challenge">Le challenge de la solidarité</a></li>     
          </ul>
     </div>
   `;

@@ -48,9 +48,12 @@
       scrollWheelZoom: false
     });
 
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
-      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a> &copy; <a href="https://carto.com/">CARTO</a>',
-      subdomains: 'abcd', maxZoom: 19
+    /* Fond Plan IGN v2 (Géoplateforme) : gratuit, sans clé API */
+    L.tileLayer('https://data.geopf.fr/wmts?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0' +
+      '&LAYER=GEOGRAPHICALGRIDSYSTEMS.PLANIGNV2&STYLE=normal&TILEMATRIXSET=PM&FORMAT=image/png' +
+      '&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}', {
+      attribution: '&copy; <a href="https://www.ign.fr/">IGN</a> Géoplateforme',
+      minZoom: 2, maxZoom: 19
     }).addTo(map);
 
     if (cfg.markers) {
