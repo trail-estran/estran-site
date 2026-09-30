@@ -66,9 +66,19 @@
     try {
       new L.GPX(cfg.gpx, {
         async: true,
-        polyline_options: { color: cfg.color, weight: 4, opacity: 0.9, lineCap: 'round' },
+        polyline_options: { color: cfg.color, weight: 5, opacity: 1, lineCap: 'round' },
         marker_options: { startIconUrl: null, endIconUrl: null, shadowUrl: null }
       }).on('loaded', function (e) {
+        /* Contour foncé sous le tracé pour qu'il ressorte sur le fond de carte */
+        (function addHalo(layer) {
+          if (layer instanceof L.Polyline) {
+            L.polyline(layer.getLatLngs(), {
+              color: '#1f2d3d', weight: 8, opacity: 0.9, lineCap: 'round', interactive: false
+            }).addTo(map).bringToBack();
+          } else if (layer.eachLayer) {
+            layer.eachLayer(addHalo);
+          }
+        })(e.target);
         map.fitBounds(e.target.getBounds().pad(0.1));
         var wrap = document.getElementById(id).closest('.race-map-wrap');
         if (wrap) { var lbl = wrap.querySelector('.map-overlay-label'); if (lbl) lbl.style.display = 'none'; }
