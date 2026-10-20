@@ -17,6 +17,10 @@
           label: "2026 Déclic Armor - GAUDIER René",
           url: "https://photos.app.goo.gl/ToRLt9uAz8QzbS9u5",
         },
+        {
+          label: "2026 ECHAVIDRE Claire",
+          url: "https://photos.app.goo.gl/wPSocNzGpsAjG8x36",
+        },
       ],
       classements: [
         {
