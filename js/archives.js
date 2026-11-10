@@ -25,7 +25,7 @@
       classements: [
         {
           label: "Résultats 2026 : toutes les courses (Chronowest)",
-          url: "https://chronowest.fr/resultats/trail-de-lestran-2026/",
+          url: "https://chronowest.fr/resultats/trail-estran-2026",
           icon: "trophy",
         },
       ],
